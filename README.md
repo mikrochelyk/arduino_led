@@ -1,0 +1,1 @@
+Simple LED project, where if the device is receiving power supply via USB, the blue LED is starting to blink, afterwards as soon as the button pressed - the serial LED blinking starts, where yellow, red and blue LED's are blinking one by one and fading from 5 to 0 brightness level
